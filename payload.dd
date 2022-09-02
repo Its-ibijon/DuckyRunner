@@ -1,0 +1,6 @@
+DELAY 300
+GUI r
+DELAY 300
+STRING Powershell echo hello world;Read-Host
+DELAY 300
+ENTER
